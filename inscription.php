@@ -120,7 +120,7 @@ require 'bdd.php';
     <option name="Voyage">Voyage</option>
     <option name="Cinéma">Cinéma</option>
 </select><br>
-<input type="submit" name="manger">Nique ta race</input>
+<input type="submit" name="manger"></input>
     
 </div>
 </form>
